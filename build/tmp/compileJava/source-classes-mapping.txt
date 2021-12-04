@@ -12,9 +12,9 @@ Day7/Day7.java
  Day7.Day7
 Day2/Day2.java
  Day2.Day2
-Day0/Advent.java
- Day0.Advent
-Day0/Input.java
- Day0.Input
 Day4/Day4.java
  Day4.Day4
+Day0/Input.java
+ Day0.Input
+Day0/Advent.java
+ Day0.Advent

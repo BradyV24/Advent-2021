@@ -1,8 +1,8 @@
 Day1Tests.java
  Day1Tests
-Day2Tests.java
- Day2Tests
-Day3Tests.java
- Day3Tests
 Day4Tests.java
  Day4Tests
+Day3Tests.java
+ Day3Tests
+Day2Tests.java
+ Day2Tests
