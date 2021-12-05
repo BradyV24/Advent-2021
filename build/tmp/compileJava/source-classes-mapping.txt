@@ -6,8 +6,8 @@ Day8/Day8.java
  Day8.Day8
 Day3/Day3.java
  Day3.Day3
-Day5/Day5.java
- Day5.Day5
+Day0/Advent.java
+ Day0.Advent
 Day7/Day7.java
  Day7.Day7
 Day2/Day2.java
@@ -16,5 +16,5 @@ Day4/Day4.java
  Day4.Day4
 Day0/Input.java
  Day0.Input
-Day0/Advent.java
- Day0.Advent
+Day5/Day5.java
+ Day5.Day5
