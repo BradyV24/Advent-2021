@@ -11,10 +11,9 @@ public class Day5 {
     public static void day5() {
         int[][] map1 = new int[1000][1000];
         int[][] map2 = new int[1000][1000];
-        List<List<Integer>> vents = new ArrayList<>();
+        List<List<Integer>> vents;
 
-        for (int i = 0; i < input.size(); i++)
-            vents.add(Arrays.stream(input.get(i).split(",| -> ")).map(x -> Integer.parseInt(x)).toList());
+        vents = input.stream().map(x -> Arrays.stream(x.split(",| -> ")).map(y -> Integer.parseInt(y)).toList()).toList();
 
        for (List<Integer> vent : vents) {
            if (vent.get(0).equals(vent.get(2))) {

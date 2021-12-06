@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3081069f-f2b8-445d-9ff1-8145555c7e4d" name="Default Changelist" comment="cleanup">
-      <change afterPath="$PROJECT_DIR$/resources/2021/5test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day5Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day6Tests.java" afterDir="false" />
+    <list default="true" id="3081069f-f2b8-445d-9ff1-8145555c7e4d" name="Default Changelist" comment="Day 5">
+      <change afterPath="$PROJECT_DIR$/resources/2021/test6" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Day5/Day5.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Day5/Day5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Day6/Day6.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Day6/Day6.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/2021/day5" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/day5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/2021/5test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/2021/day6" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/day6" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Day5/Day5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day5/Day5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day6/Day6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day6/Day6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day6Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day6Tests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,17 +77,7 @@
       <recent name="Day5" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Day5Tests.test1">
-    <configuration name="Day1Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Advent_Testing.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day1Tests" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Day6Tests.test1">
     <configuration name="Day2Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Advent_Testing.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -126,6 +118,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day6Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Advent_Testing.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Day6Tests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Advent Testing" />
       <method v="2">
@@ -141,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Day6Tests.test1" />
         <item itemvalue="JUnit.Day5Tests.test1" />
         <item itemvalue="JUnit.Day4Tests.test1" />
         <item itemvalue="JUnit.Day3Tests.test1" />
         <item itemvalue="JUnit.Day2Tests.test1" />
-        <item itemvalue="JUnit.Day1Tests.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638602667417</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 5">
+      <created>1638687042711</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638687042711</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,7 +206,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Days 1-4" />
     <MESSAGE value="cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleanup" />
+    <MESSAGE value="Day 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
