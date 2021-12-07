@@ -9,7 +9,7 @@ gradlew
 settings.gradle
 /build/
 build.gradle
-gradle.xml
+.idea/gradle.xml
 Advent Testing.iml
 External Libraries
 Scratches and Consoles
