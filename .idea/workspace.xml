@@ -4,25 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3081069f-f2b8-445d-9ff1-8145555c7e4d" name="Default Changelist" comment="Day6">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day7Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.0/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.0/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.0/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.0/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+    <list default="true" id="3081069f-f2b8-445d-9ff1-8145555c7e4d" name="Default Changelist" comment="Day7">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day8Tests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Day7/Day7.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Day7/Day7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/2021/day7" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/day7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/2021/test6" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day7/Day7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day7/Day7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/2021/day8" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/day8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/2021/test" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8/Day8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day8/Day8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Brady\IdeaProjects\Advent Testing" />
       <recent name="C:\Users\Brady\IdeaProjects\Advent Testing\resources\2019" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -84,17 +72,7 @@
       <recent name="Day5" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Day7Tests.test1">
-    <configuration name="Day3Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Advent_Testing.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day3Tests" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Day8Tests.test1">
     <configuration name="Day4Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Advent_Testing.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -135,6 +113,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day8Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Advent_Testing.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Day8Tests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Advent Testing" />
       <method v="2">
@@ -150,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Day8Tests.test1" />
         <item itemvalue="JUnit.Day7Tests.test1" />
         <item itemvalue="JUnit.Day6Tests.test1" />
         <item itemvalue="JUnit.Day5Tests.test1" />
         <item itemvalue="JUnit.Day4Tests.test1" />
-        <item itemvalue="JUnit.Day3Tests.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +197,28 @@
       <option name="project" value="LOCAL" />
       <updated>1638831591246</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Day7">
+      <created>1638856376900</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638856376900</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Day7">
+      <created>1638856517031</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638856517031</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Day7">
+      <created>1638856702291</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1638856702291</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,7 +238,8 @@
     <MESSAGE value="cleanup" />
     <MESSAGE value="Day 5" />
     <MESSAGE value="Day6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day6" />
+    <MESSAGE value="Day7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
