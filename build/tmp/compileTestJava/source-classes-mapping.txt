@@ -14,3 +14,7 @@ Day7Tests.java
  Day7Tests
 Day8Tests.java
  Day8Tests
+Day10Tests.java
+ Day10Tests
+Day9Tests.java
+ Day9Tests

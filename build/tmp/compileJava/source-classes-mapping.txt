@@ -16,5 +16,9 @@ Day4/Day4.java
  Day4.Day4
 Day7/Day7.java
  Day7.Day7
+Day10/Day10.java
+ Day10.Day10
 Day8/Day8.java
  Day8.Day8
+Day9/Day9.java
+ Day9.Day9
