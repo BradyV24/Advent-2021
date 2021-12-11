@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3081069f-f2b8-445d-9ff1-8145555c7e4d" name="Default Changelist" comment="Day9">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day11/Day11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day12/Day12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day11Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day12Tests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/fileHashes/fileHashes.bin" afterDir="false" />
@@ -18,7 +22,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day9/Day9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day9/Day9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/2021/day10" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/day10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/2021/day11" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/day11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/2021/test" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day10/Day10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day10/Day10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day10Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day10Tests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,27 +95,27 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
+      <recent name="Day12" />
+      <recent name="Day11" />
       <recent name="Day10" />
       <recent name="Day9" />
-      <recent name="Day8" />
-      <recent name="Day7" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Day9Tests.test1">
-    <configuration name="Day5Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Day11Tests.test1">
+    <configuration name="Day10Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Advent_Testing.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day5Tests" />
+      <option name="MAIN_CLASS_NAME" value="Day10Tests" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day6Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Day11Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Advent_Testing.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day6Tests" />
+      <option name="MAIN_CLASS_NAME" value="Day11Tests" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -159,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Day11Tests.test1" />
+        <item itemvalue="JUnit.Day10Tests.test1" />
         <item itemvalue="JUnit.Day9Tests.test1" />
         <item itemvalue="JUnit.Day8Tests.test1" />
         <item itemvalue="JUnit.Day7Tests.test1" />
-        <item itemvalue="JUnit.Day6Tests.test1" />
-        <item itemvalue="JUnit.Day5Tests.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639032573078</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Day9">
+      <created>1639033773274</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1639033773274</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,6 +322,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/Day9/Day9.java</url>
           <line>41</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Day10/Day10.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
