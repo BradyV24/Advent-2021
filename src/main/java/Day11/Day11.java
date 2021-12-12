@@ -20,9 +20,9 @@ public class Day11 {
             for (int[] row : map)
                 for (int j = 0; j < row.length; j++)
                     row[j]++;
-            int[][] next = new int[mapIm.size()][mapIm.get(0).size()];
-            for (int i = 0; i < mapIm.size(); i++)
-                for (int j = 0; j < mapIm.get(i).size(); j++)
+            int[][] next = new int[map.length][map[0].length];
+            for (int i = 0; i < map.length; i++)
+                for (int j = 0; j < map[0].length; j++)
                     next[i][j] = map[i][j];
 
             boolean changed = true;
@@ -56,8 +56,8 @@ public class Day11 {
                         }
                     }
                 }
-                for (int i = 0; i < mapIm.size(); i++)
-                    for (int j = 0; j < mapIm.get(i).size(); j++) {
+                for (int i = 0; i < map.length; i++)
+                    for (int j = 0; j < map[i].length; j++) {
                         if (map[i][j] != next[i][j]) changed = true;
                         map[i][j] = next[i][j];
                     }
@@ -66,8 +66,8 @@ public class Day11 {
             if (day == 99) System.out.println(flashes);
 
             boolean sync = true;
-            for (int i = 0; i < mapIm.size(); i++)
-                for (int j = 0; j < mapIm.get(i).size(); j++)
+            for (int i = 0; i < map.length; i++)
+                for (int j = 0; j < map[i].length; j++)
                     if (map[i][j] != 0) sync = false;
             if (sync) {
                 System.out.println(day+1);
