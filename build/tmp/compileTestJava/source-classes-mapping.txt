@@ -16,9 +16,13 @@ Day8Tests.java
  Day8Tests
 Day9Tests.java
  Day9Tests
-Day12Tests.java
- Day12Tests
 Day10Tests.java
  Day10Tests
 Day11Tests.java
  Day11Tests
+Day14Tests.java
+ Day14Tests
+Day12Tests.java
+ Day12Tests
+Day13Tests.java
+ Day13Tests
