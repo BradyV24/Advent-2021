@@ -1,11 +1,12 @@
 import Day14.Day14;
+import Day15.Day15;
 import org.junit.jupiter.api.Test;
 
-public class Day14Tests {
+public class Day15Tests {
 
     @Test
     void test1() {
-        Day14.part1();
-        Day14.part2();
+        Day15.part1();
+        Day15.part2();
     }
 }
