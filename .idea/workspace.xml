@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3081069f-f2b8-445d-9ff1-8145555c7e4d" name="Default Changelist" comment="Day13">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day15/Day15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day15Tests.java" afterDir="false" />
+    <list default="true" id="3081069f-f2b8-445d-9ff1-8145555c7e4d" name="Default Changelist" comment="Day14">
+      <change afterPath="$PROJECT_DIR$/resources/2021/day15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/2021/day16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/2021/day17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day16/Day16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day17/Day17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day18/Day18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day16Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day17Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day18Tests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/fileHashes/fileHashes.bin" afterDir="false" />
@@ -18,12 +25,13 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Day0/Advent.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Day0/Advent.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/2021/day14" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/day14" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/2021/test" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day14/Day14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day14/Day14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day14Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day14Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day0/Advent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day0/Advent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day15/Day15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day15/Day15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day15Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day15Tests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,58 +102,58 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
+      <recent name="Day18" />
+      <recent name="Day17" />
+      <recent name="Day16" />
       <recent name="Day15" />
-      <recent name="Day14" />
-      <recent name="Day13" />
-      <recent name="Day12" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Day14Tests">
-    <configuration name="Day10Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Advent_Testing.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day10Tests" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day11Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Advent_Testing.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day11Tests" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day12Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Advent_Testing.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day12Tests" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day13Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Advent_Testing.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day13Tests" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Day17Tests.test1">
     <configuration name="Day14Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Advent_Testing.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Day14Tests" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day15Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Advent_Testing.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Day15Tests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day16Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Advent_Testing.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Day16Tests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day17Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Advent_Testing.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Day17Tests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day18Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Advent_Testing.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Day18Tests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -165,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Day17Tests.test1" />
+        <item itemvalue="JUnit.Day18Tests.test1" />
+        <item itemvalue="JUnit.Day16Tests.test1" />
+        <item itemvalue="JUnit.Day15Tests.test1" />
         <item itemvalue="JUnit.Day14Tests" />
-        <item itemvalue="JUnit.Day13Tests.test1" />
-        <item itemvalue="JUnit.Day12Tests.test1" />
-        <item itemvalue="JUnit.Day11Tests.test1" />
-        <item itemvalue="JUnit.Day10Tests.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639376111107</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Day14">
+      <created>1639463842895</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1639463842895</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -327,7 +342,8 @@
     <MESSAGE value="Day11" />
     <MESSAGE value="Day12" />
     <MESSAGE value="Day13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day13" />
+    <MESSAGE value="Day14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -351,11 +367,19 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Day14/Day14.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="28" />
+          <url>file://$PROJECT_DIR$/src/main/java/Day16/Day16.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="map" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Advent_Testing$Day16Tests_test1.ic" NAME="Day16Tests.test1 Coverage Results" MODIFIED="1639639241893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

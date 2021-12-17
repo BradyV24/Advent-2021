@@ -2,6 +2,8 @@ Day10/Day10.java
  Day10.Day10
 Day8/Day8.java
  Day8.Day8
+Day14/Day14.java
+ Day14.Day14
 Day3/Day3.java
  Day3.Day3
 Day11/Day11.java
@@ -12,23 +14,27 @@ Day2/Day2.java
  Day2.Day2
 Day0/Input.java
  Day0.Input
-Day0/Advent.java
- Day0.Advent
+Day18/Day18.java
+ Day18.Day18
+Day12/Day12.java
+ Day12.Day12
 Day1/Day1.java
  Day1.Day1
 Day6/Day6.java
  Day6.Day6
+Day0/Advent.java
+ Day0.Advent
 Day5/Day5.java
  Day5.Day5
+Day15/Day15.java
+ Day15.Day15
 Day9/Day9.java
  Day9.Day9
 Day4/Day4.java
  Day4.Day4
-Day12/Day12.java
- Day12.Day12
 Day13/Day13.java
  Day13.Day13
-Day15/Day15.java
- Day15.Day15
-Day14/Day14.java
- Day14.Day14
+Day16/Day16.java
+ Day16.Day16
+Day17/Day17.java
+ Day17.Day17

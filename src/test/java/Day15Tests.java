@@ -6,7 +6,6 @@ public class Day15Tests {
 
     @Test
     void test1() {
-        Day15.part1();
-        Day15.part2();
+        Day15.Day15();
     }
 }
