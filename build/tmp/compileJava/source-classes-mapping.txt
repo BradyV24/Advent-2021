@@ -1,40 +1,52 @@
-Day10/Day10.java
- Day10.Day10
-Day8/Day8.java
- Day8.Day8
 Day14/Day14.java
  Day14.Day14
 Day3/Day3.java
  Day3.Day3
+Day18/SLit.java
+ Day18.SLit
 Day11/Day11.java
  Day11.Day11
-Day7/Day7.java
- Day7.Day7
 Day2/Day2.java
  Day2.Day2
-Day0/Input.java
- Day0.Input
-Day18/Day18.java
- Day18.Day18
-Day12/Day12.java
- Day12.Day12
-Day1/Day1.java
- Day1.Day1
-Day6/Day6.java
- Day6.Day6
-Day0/Advent.java
- Day0.Advent
-Day5/Day5.java
- Day5.Day5
-Day15/Day15.java
- Day15.Day15
-Day9/Day9.java
- Day9.Day9
-Day4/Day4.java
- Day4.Day4
-Day13/Day13.java
- Day13.Day13
-Day16/Day16.java
- Day16.Day16
 Day17/Day17.java
  Day17.Day17
+Day1/Day1.java
+ Day1.Day1
+Day15/Day15.java
+ Day15.Day15
+Day18/SPair.java
+ Day18.SPair
+Day20/Day20.java
+ Day20.Day20
+Day9/Day9.java
+ Day9.Day9
+Day13/Day13.java
+ Day13.Day13
+Day0/Advent.java
+ Day0.Advent
+Day10/Day10.java
+ Day10.Day10
+Day8/Day8.java
+ Day8.Day8
+Day18/Day18.java
+ Day18.Day18
+Day18/SNumber.java
+ Day18.SNumber
+Day7/Day7.java
+ Day7.Day7
+Day0/Input.java
+ Day0.Input
+Day12/Day12.java
+ Day12.Day12
+Day6/Day6.java
+ Day6.Day6
+Day4/Day4.java
+ Day4.Day4
+Day16/Day16.java
+ Day16.Day16
+Day19/Day19.java
+ Day19.Day19
+Day5/Day5.java
+ Day5.Day5
+Day21/Day21.java
+ Day21.Day21

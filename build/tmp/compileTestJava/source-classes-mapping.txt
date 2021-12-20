@@ -6,8 +6,12 @@ Day4Tests.java
  Day4Tests
 Day18Tests.java
  Day18Tests
+Day19Tests.java
+ Day19Tests
 Day6Tests.java
  Day6Tests
+Day21Tests.java
+ Day21Tests
 Day15Tests.java
  Day15Tests
 Day9Tests.java
@@ -16,6 +20,8 @@ Day14Tests.java
  Day14Tests
 Day1Tests.java
  Day1Tests
+Day20Tests.java
+ Day20Tests
 Day13Tests.java
  Day13Tests
 Day7Tests.java
@@ -30,7 +36,7 @@ Day11Tests.java
  Day11Tests
 Day8Tests.java
  Day8Tests
-Day2Tests.java
- Day2Tests
 Day17Tests.java
  Day17Tests
+Day2Tests.java
+ Day2Tests

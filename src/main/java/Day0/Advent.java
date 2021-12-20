@@ -27,4 +27,12 @@ public class Advent {
         }
         return dec;
     }
+    public static int binary(boolean[] bin) {
+        int dec = 0;
+        for (int i = 1; i <= bin.length; i++) {
+            if (bin[i-1])
+                dec += Math.pow(2, bin.length-i);
+        }
+        return dec;
+    }
 }
