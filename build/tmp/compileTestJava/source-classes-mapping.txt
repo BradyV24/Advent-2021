@@ -1,42 +1,4 @@
-Day5Tests.java
- Day5Tests
-Day10Tests.java
- Day10Tests
-Day4Tests.java
- Day4Tests
-Day18Tests.java
- Day18Tests
-Day19Tests.java
- Day19Tests
-Day6Tests.java
- Day6Tests
-Day21Tests.java
- Day21Tests
-Day15Tests.java
- Day15Tests
-Day9Tests.java
- Day9Tests
-Day14Tests.java
- Day14Tests
-Day1Tests.java
- Day1Tests
-Day20Tests.java
- Day20Tests
-Day13Tests.java
- Day13Tests
-Day7Tests.java
- Day7Tests
-Day16Tests.java
- Day16Tests
-Day3Tests.java
- Day3Tests
-Day12Tests.java
- Day12Tests
-Day11Tests.java
- Day11Tests
-Day8Tests.java
- Day8Tests
-Day17Tests.java
- Day17Tests
-Day2Tests.java
- Day2Tests
+Advent2020Tests.java
+ Advent2020Tests
+Advent2021Tests.java
+ Advent2021Tests

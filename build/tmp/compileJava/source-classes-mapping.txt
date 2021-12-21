@@ -1,52 +1,56 @@
-Day14/Day14.java
- Day14.Day14
-Day3/Day3.java
- Day3.Day3
-Day18/SLit.java
- Day18.SLit
-Day11/Day11.java
- Day11.Day11
-Day2/Day2.java
- Day2.Day2
-Day17/Day17.java
- Day17.Day17
-Day1/Day1.java
- Day1.Day1
-Day15/Day15.java
- Day15.Day15
-Day18/SPair.java
- Day18.SPair
-Day20/Day20.java
- Day20.Day20
-Day9/Day9.java
- Day9.Day9
-Day13/Day13.java
- Day13.Day13
-Day0/Advent.java
- Day0.Advent
-Day10/Day10.java
- Day10.Day10
-Day8/Day8.java
- Day8.Day8
-Day18/Day18.java
- Day18.Day18
-Day18/SNumber.java
- Day18.SNumber
-Day7/Day7.java
- Day7.Day7
-Day0/Input.java
- Day0.Input
-Day12/Day12.java
- Day12.Day12
-Day6/Day6.java
- Day6.Day6
-Day4/Day4.java
- Day4.Day4
-Day16/Day16.java
- Day16.Day16
-Day19/Day19.java
- Day19.Day19
-Day5/Day5.java
- Day5.Day5
-Day21/Day21.java
- Day21.Day21
+Advent2021/Day2/Day2.java
+ Advent2021.Day2.Day2
+Advent2021/Day17/Day17.java
+ Advent2021.Day17.Day17
+Advent2021/Day12/Day12.java
+ Advent2021.Day12.Day12
+Advent2021/Day11/Day11.java
+ Advent2021.Day11.Day11
+Advent2021/Day3/Day3.java
+ Advent2021.Day3.Day3
+Advent2020/Day7/Day7.java
+ Advent2020.Day7.Day7
+Advent2021/Day20/Day20.java
+ Advent2021.Day20.Day20
+Advent2021/Day4/Day4.java
+ Advent2021.Day4.Day4
+Advent2021/Day18/SNumber.java
+ Advent2021.Day18.SNumber
+Advent2021/Day0/Advent.java
+ Advent2021.Day0.Advent
+Advent2021/Day6/Day6.java
+ Advent2021.Day6.Day6
+Advent2021/Day5/Day5.java
+ Advent2021.Day5.Day5
+Advent2021/Day22/Day22.java
+ Advent2021.Day22.Day22
+Advent2021/Day18/SPair.java
+ Advent2021.Day18.SPair
+Advent2021/Day15/Day15.java
+ Advent2021.Day15.Day15
+Advent2021/Day18/SLit.java
+ Advent2021.Day18.SLit
+Advent2021/Day7/Day7.java
+ Advent2021.Day7.Day7
+Advent2021/Day10/Day10.java
+ Advent2021.Day10.Day10
+Advent2021/Day13/Day13.java
+ Advent2021.Day13.Day13
+Advent2021/Day8/Day8.java
+ Advent2021.Day8.Day8
+Advent2021/Day18/Day18.java
+ Advent2021.Day18.Day18
+Advent2021/Day19/Day19.java
+ Advent2021.Day19.Day19
+Advent2021/Day14/Day14.java
+ Advent2021.Day14.Day14
+Advent2021/Day9/Day9.java
+ Advent2021.Day9.Day9
+Advent2021/Day0/Input.java
+ Advent2021.Day0.Input
+Advent2021/Day16/Day16.java
+ Advent2021.Day16.Day16
+Advent2021/Day1/Day1.java
+ Advent2021.Day1.Day1
+Advent2021/Day21/Day21.java
+ Advent2021.Day21.Day21

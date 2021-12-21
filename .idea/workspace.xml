@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3081069f-f2b8-445d-9ff1-8145555c7e4d" name="Default Changelist" comment="Day17">
-      <change afterPath="$PROJECT_DIR$/resources/2021/day19" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/2021/day20" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day18/SLit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day18/SNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day18/SPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day19/Day19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day20/Day20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day21/Day21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day19Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day20Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day21Tests.java" afterDir="false" />
+    <list default="true" id="3081069f-f2b8-445d-9ff1-8145555c7e4d" name="Default Changelist" comment="Day21">
+      <change afterPath="$PROJECT_DIR$/resources/2020/day7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/2021/day18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/2021/day21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/2021/day22" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/2021/day23" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/2021/day24" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/2021/day25" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advent2020/Day7/Day7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day21/Day21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Advent2020Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Advent2021Tests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/fileHashes/fileHashes.bin" afterDir="false" />
@@ -27,11 +27,73 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Day0/Advent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Day0/Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Day1/Day1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Day2/Day2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Day3/Day3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Day4/Day4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Day5/Day5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Day6/Day6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Day7/Day7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Day8/Day8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Day1Tests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Day2Tests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Day3Tests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Day4Tests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Day5Tests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Day6Tests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Day7Tests.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/2021/test" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day0/Advent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day0/Advent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day18/Day18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day18/Day18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day0/Advent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day0/Advent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day0/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day0/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day1/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day1/Day1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day10/Day10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day10/Day10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day11/Day11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day11/Day11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day12/Day12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day12/Day12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day13/Day13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day13/Day13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day14/Day14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day14/Day14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day15/Day15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day15/Day15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day16/Day16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day16/Day16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day17/Day17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day17/Day17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day18/Day18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day18/Day18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day18/SLit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day18/SLit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day18/SNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day18/SNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day18/SPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day18/SPair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day19/Day19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day19/Day19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day2/Day2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day2/Day2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day20/Day20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day22/Day22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day21/Day21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day20/Day20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day3/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day3/Day3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day4/Day4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day4/Day4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day5/Day5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day5/Day5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day6/Day6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day6/Day6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day7/Day7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day7/Day7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day8/Day8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day8/Day8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day9/Day9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day9/Day9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day10Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day11Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day12Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day13Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day14Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day15Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day16Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day17Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day18Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day19Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day1Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day20Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day21Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day2Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day3Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day4Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day5Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day6Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day7Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day8Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day9Tests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,28 +164,28 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
+      <recent name="Day22" />
       <recent name="Day21" />
       <recent name="Day20" />
       <recent name="Day19" />
-      <recent name="Day18" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Day21Tests.test1">
-    <configuration name="Day16Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Advent2021Tests.test21">
+    <configuration name="Advent2020Tests.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Advent_Testing.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day16Tests" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="Advent2020Tests" />
+      <option name="METHOD_NAME" value="test7" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day17Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Advent2021Tests.test21" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Advent_Testing.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day17Tests" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="Advent2021Tests" />
+      <option name="METHOD_NAME" value="test21" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -174,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Advent2021Tests.test21" />
+        <item itemvalue="JUnit.Advent2020Tests.test7" />
         <item itemvalue="JUnit.Day21Tests.test1" />
         <item itemvalue="JUnit.Day19Tests.test1" />
         <item itemvalue="JUnit.Day18Tests.test1" />
-        <item itemvalue="JUnit.Day17Tests.test1" />
-        <item itemvalue="JUnit.Day16Tests.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639721868374</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Day21">
+      <created>1639981734821</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1639981734821</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,38 +421,41 @@
     <MESSAGE value="Day13" />
     <MESSAGE value="Day14" />
     <MESSAGE value="Day17" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day17" />
+    <MESSAGE value="Day21" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/Day1Tests.java</url>
-          <line>11</line>
-          <properties class="Day1Tests" method="test1">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Day9/Day9.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Advent2021/Day9/Day9.java</url>
           <line>41</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Day10/Day10.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Advent2021/Day10/Day10.java</url>
           <line>69</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Day16/Day16.java</url>
-          <line>38</line>
+          <url>file://$PROJECT_DIR$/src/main/java/Advent2021/Day16/Day16.java</url>
+          <line>37</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Day18/Day18.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Advent2021/Day18/Day18.java</url>
           <line>20</line>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Advent2020/Day7/Day7.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Advent2020/Day7/Day7.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
