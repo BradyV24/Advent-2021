@@ -13,6 +13,7 @@ import Advent2021.Day2.Day2;
 import Advent2021.Day20.Day20;
 import Advent2021.Day21.Day21;
 import Advent2021.Day22.Day22;
+import Advent2021.Day23.Day23;
 import Advent2021.Day3.Day3;
 import Advent2021.Day4.Day4;
 import Advent2021.Day5.Day5;
@@ -120,5 +121,10 @@ public class Advent2021Tests {
     void test22() {
         Day22.part1();
         Day22.part2();
+    }
+    @Test
+    void test23() {
+        Day23.part1();
+        Day23.part2();
     }
 }
