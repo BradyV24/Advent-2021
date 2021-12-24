@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3081069f-f2b8-445d-9ff1-8145555c7e4d" name="Default Changelist" comment="Day21">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day22/Cuboid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day23/Day23.java" afterDir="false" />
+    <list default="true" id="3081069f-f2b8-445d-9ff1-8145555c7e4d" name="Default Changelist" comment="Day22 This one made me cry">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day19/Beacon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day24/Day24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day25/Day25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.0/fileHashes/fileHashes.bin" afterDir="false" />
@@ -19,9 +20,11 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/2021/day22" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/day22" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/2021/day23" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/day23" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/2021/day24" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/day24" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/2021/test" beforeDir="false" afterPath="$PROJECT_DIR$/resources/2021/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Advent2021/Day22/Day22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day22/Day22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Advent2021/Day19/Day19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day19/Day19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Advent2021/Day23/Day23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Advent2021/Day23/Day23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Advent2021Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Advent2021Tests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,19 +95,19 @@
       <recent name="C:\Users\Brady\IdeaProjects\Advent Testing\resources\2019" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Advent2021.Day25" />
+      <recent name="Advent2021.Day24" />
       <recent name="Advent2021.Day23" />
       <recent name="" />
       <recent name="Day22" />
-      <recent name="Day21" />
-      <recent name="Day20" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Advent2021Tests.test22">
-    <configuration name="Advent2020Tests.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Advent2021Tests.test24">
+    <configuration name="Advent2021Tests.test19" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Advent_Testing.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Advent2020Tests" />
-      <option name="METHOD_NAME" value="test7" />
+      <option name="MAIN_CLASS_NAME" value="Advent2021Tests" />
+      <option name="METHOD_NAME" value="test19" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +143,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day21Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Advent2021Tests.test24" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Advent_Testing.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day21Tests" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="Advent2021Tests" />
+      <option name="METHOD_NAME" value="test24" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -165,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Advent2021Tests.test22" />
+        <item itemvalue="JUnit.Advent2021Tests.test24" />
         <item itemvalue="JUnit.Advent2021Tests.test23" />
+        <item itemvalue="JUnit.Advent2021Tests.test19" />
+        <item itemvalue="JUnit.Advent2021Tests.test22" />
         <item itemvalue="JUnit.Advent2021Tests.test21" />
-        <item itemvalue="JUnit.Advent2020Tests.test7" />
-        <item itemvalue="JUnit.Day21Tests.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640072898105</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Day22 This one made me cry">
+      <created>1640170761849</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1640170761849</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,7 +368,8 @@
     <MESSAGE value="Day14" />
     <MESSAGE value="Day17" />
     <MESSAGE value="Day21" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day21" />
+    <MESSAGE value="Day22 This one made me cry" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day22 This one made me cry" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -398,6 +409,16 @@
           <line>39</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Advent2021/Day19/Day19.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Advent2021/Day23/Day23.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
@@ -408,6 +429,7 @@
     <watches-manager>
       <configuration name="JUnit">
         <watch expression="map" />
+        <watch expression="map[1]" />
       </configuration>
     </watches-manager>
   </component>
@@ -415,5 +437,6 @@
     <SUITE FILE_PATH="coverage/Advent_Testing$Advent2021Tests_test22.ic" NAME="Advent2021Tests.test22 Coverage Results" MODIFIED="1640170399401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Advent_Testing$Day16Tests_test1.ic" NAME="Day16Tests.test1 Coverage Results" MODIFIED="1639639241893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Advent_Testing$Day18Tests_test1.ic" NAME="Day18Tests.test1 Coverage Results" MODIFIED="1639818811561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Advent_Testing$Advent2021Tests_test23.ic" NAME="Advent2021Tests.test23 Coverage Results" MODIFIED="1640245950313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

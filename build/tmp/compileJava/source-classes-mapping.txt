@@ -8,6 +8,8 @@ Advent2021/Day11/Day11.java
  Advent2021.Day11.Day11
 Advent2021/Day3/Day3.java
  Advent2021.Day3.Day3
+Advent2021/Day19/Beacon.java
+ Advent2021.Day19.Beacon
 Advent2020/Day7/Day7.java
  Advent2020.Day7.Day7
 Advent2021/Day20/Day20.java
@@ -16,14 +18,16 @@ Advent2021/Day4/Day4.java
  Advent2021.Day4.Day4
 Advent2021/Day18/SNumber.java
  Advent2021.Day18.SNumber
+Advent2021/Day22/Cuboid.java
+ Advent2021.Day22.Cuboid
 Advent2021/Day0/Advent.java
  Advent2021.Day0.Advent
 Advent2021/Day6/Day6.java
  Advent2021.Day6.Day6
 Advent2021/Day5/Day5.java
  Advent2021.Day5.Day5
-Advent2021/Day23/Day23.java
- Advent2021.Day23.Day23
+Advent2021/Day22/Day22.java
+ Advent2021.Day22.Day22
 Advent2021/Day18/SPair.java
  Advent2021.Day18.SPair
 Advent2021/Day15/Day15.java
@@ -40,6 +44,8 @@ Advent2021/Day8/Day8.java
  Advent2021.Day8.Day8
 Advent2021/Day18/Day18.java
  Advent2021.Day18.Day18
+Advent2021/Day25/Day25.java
+ Advent2021.Day25.Day25
 Advent2021/Day19/Day19.java
  Advent2021.Day19.Day19
 Advent2021/Day21/Day21.java
@@ -54,7 +60,7 @@ Advent2021/Day1/Day1.java
  Advent2021.Day1.Day1
 Advent2021/Day14/Day14.java
  Advent2021.Day14.Day14
-Advent2021/Day22/Cuboid.java
- Advent2021.Day22.Cuboid
-Advent2021/Day22/Day22.java
- Advent2021.Day22.Day22
+Advent2021/Day23/Day23.java
+ Advent2021.Day23.Day23
+Advent2021/Day24/Day24.java
+ Advent2021.Day24.Day24
