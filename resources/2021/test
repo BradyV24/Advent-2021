@@ -1,24 +1,9 @@
-#############
-#...........#
-###B#C#B#D###
-  #D#C#B#A#
-  #D#B#A#C#
-  #A#D#C#A#
-  #########
-
-          char[][] map1 = new char[5][13];
-          for (int y = 0; y < mapL.size(); y++ ) {
-              for (int x = 0; x < mapL.get(y).size(); x++ ) {
-                  map1[y][x] = mapL.get(y).get(x);
-              }
-          }
-          System.out.println(game1(map1, 0));
-
-          mapL.add(3, "  #D#C#B#A#".chars().mapToObj(x->(char)x).toList());
-          mapL.add(4, "  #D#B#A#C#".chars().mapToObj(x->(char)x).toList());
-          char[][] map2 = new char[7][13];
-          for (int y = 0; y < mapL.size(); y++ ) {
-              for (int x = 0; x < mapL.get(y).size(); x++ ) {
-                  map2[y][x] = mapL.get(y).get(x);
-              }
-          }
+v...>>.vv>
+.vv>>.vv..
+>>.>v>...v
+>>v>>.>.v.
+v>v.vv.v..
+>.>>..v...
+.vv..>.>v.
+v.v..>>v.v
+....v..v.>
